@@ -55,6 +55,5 @@ Currently focused on strengthening my expertise in:
 
 📫 Connect With Me
 
-- GitHub: https://github.com/sohyal-2
 - Email: ansarisohyal@gmail.com
  
