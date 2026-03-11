@@ -29,6 +29,9 @@
   <img src="https://streak-stats.demolab.com/?user=sohyal-2&theme=dracula&hide_border=true&cache_seconds=86400" alt="sohyal-2's GitHub Streak" width="49%" />
 </p>
 <p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sohyal-2&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mohd Sohyal's GitHub Trophies" />
+</p>
+<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sohyal-2&theme=dracula&radius=10" alt="sohyal-2's Activity Graph" />
 </p>
 
