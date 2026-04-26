@@ -7,10 +7,10 @@
 </p>
 
 ## 📌 About Me
-🌱 I'm currently building production-ready web applications using React.js, Node.js, TypeScript, and modern JavaScript frameworks.
- 👯 I'm looking to collaborate on scalable full stack projects involving RESTful APIs, database design, and responsive UI/UX development.
-  🤝 I'm looking for help with advanced MERN stack architecture, Next.js optimization, cloud deployment, and scalable backend systems.
-   📚 I'm currently learning Web3 development, smart contract programming with Solidity, and advanced full stack architectures.
+- 🌱 I'm currently building production-ready web applications using React.js, Node.js, TypeScript, and modern JavaScript frameworks.
+- 👯 I'm looking to collaborate on scalable full stack projects involving RESTful APIs, database design, and responsive UI/UX development.
+- 🤝 I'm looking for help with advanced MERN stack architecture, Next.js optimization, cloud deployment, and scalable backend systems.
+- 📚 I'm currently learning Web3 development, smart contract programming with Solidity, and advanced full stack architectures.
 
 
 
